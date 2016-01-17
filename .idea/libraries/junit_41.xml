@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="junit_41">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Homis/homis/lib/junit_4/junit-4.12-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Homis/homis/lib/junit_4/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Homis/homis/lib/junit_4/junit-4.12-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="apache-httpcomponents-httpcore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/homis/lib/apache/apache-httpcomponents-httpcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/homis/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/homis/lib/others/shichimifx-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/homis/lib/apache/apache-httpcomponents-httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/homis/lib/apache/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/homis/lib/apache/org-apache-commons-codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/homis/lib/MySQLDriver/mysql-connector-java-5.1.23-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="apache1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/production/Homis/homis/lib/apache/org-apache-commons-codec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Homis/homis/lib/apache/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Homis/homis/lib/apache/apache-httpcomponents-httpclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Homis/homis/lib/apache/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Homis/homis/lib/apache/apache-httpcomponents-httpcore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
